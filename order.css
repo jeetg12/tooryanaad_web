@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(115, 229, 126);
+}
+h1{
+    background-color: rgb(197, 147, 41);
+    display: flex;
+    justify-content: center;
+   margin-top: 40vh;
+    color: rgb(255, 255, 255);
+}
